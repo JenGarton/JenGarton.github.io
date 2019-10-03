@@ -879,10 +879,6 @@ footer i {
     padding-bottom: 2.5em;
 }
 
-.blue-text {
-    color: #83B799 !important;
-}
-
 .modal-dialog img {
     width: 100em !important;
     height: auto;
@@ -976,6 +972,10 @@ footer i {
 #CV a:hover{
     background: #ffd1dc !important;
     color: #836953 !important;
+}
+
+.green-text {
+    color: #83B799 !important;
 }
 
 .pink-text{
